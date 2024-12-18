@@ -32,3 +32,4 @@ rime_deployer
 rime_patch
 
 *.zip
+/lua/cold_word_drop
