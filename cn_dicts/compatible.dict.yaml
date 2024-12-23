@@ -7,18 +7,26 @@ name: compatible
 version: "2024-11-11"
 sort: by_weight
 ...
-不长	bù;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; cháng;pn;pn;pd;uh;po;pc;ta;pn;	1081
+落下	là;ck;ck;cl;zo,rr;tr;ls;ai;ck; xià;ab;ab;ab,ad;dh;my;fy;gh;ab;	22622
+落下	luò;ck;ck;cl;zo,rr;tr;ls;ai;ck; xià;ab;ab;ab,ad;dh;my;fy;gh;ab;	34974
+穿着	chuān;by;by;xy,by;iu;jh;el;pw;gy; zhe;yo;yo;yo;fs;tu;gq;ud;em;	148518
+穿着	chuān;by;by;xy,by;iu;jh;el;pw;gy; zhuó;yo;yo;yo;fs;tu;gq;ud;em;	8682
+一通	yí;aa;aa;aa;dd;mm;fi;g,gg;aa; tòng;zy;zy;zy;pq;yb;ku;ce;zy;	14755
+一通	yì;aa;aa;aa;dd;mm;fi;g,gg;aa; tōng;zy;zy;zy;pq;yb;ku;ce;zy;	6552
+总长	zǒng;bx;bx;bx,xk;fn;cp;hh;uk;ex; cháng;pn;pn;pd;uh;po;pc;ta;pn;	14178
+总长	zǒng;bx;bx;bx,xk;fn;cp;hh;uk;ex; zhǎng;pn;pn;pd;uh;po;pc;ta;pn;	1662
+不长	bǔ;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; cháng;pn;pn;pd;uh;po;pc;ta;pn;	4820
 不长	bù;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; zhǎng;pn;pn;pd;uh;po;pc;ta;pn;	708
-掠夺	lüè;fx;fx;fj;ji;qf;uy;ry;fx; duó;dc;dc;dc,cd;xk;ki;mk;df;dc;	11
-掠夺	lüě;fx;fx;fj;ji;qf;uy;ry;fx; duó;dc;dc;dc,cd;xk;ki;mk;df;dc;	11
-略长	lüè;tk;tk;tg;wo;wr;qs;lt;tk; zhǎng;pn;pn;pd;uh;po;pc;ta;pn;	98
-略长	lüè;tk;tk;tg;wo;wr;qs;lt;tk; cháng;pn;pn;pd;uh;po;pc;ta;pn;	123
+掠夺	lüè;fx;fx;fj;ji;qf;uy;ry;fx; duó;dc;dc;dc,cd;xk;ki;mk;df;dc;	12207
+掠夺	lüě;fx;fx;fj;ji;qf;uy;ry;fx; duó;dc;dc;dc,cd;xk;ki;mk;df;dc;	563
+略长	lüè;tk;tk;tg;wo;wr;qs;lt;tk; zhǎng;pn;pn;pd;uh;po;pc;ta;pn;	223
+略长	lüè;tk;tk;tg;wo;wr;qs;lt;tk; cháng;pn;pn;pd;uh;po;pc;ta;pn;	1815
 略长一些	lüè;tk;tk;tg;wo;wr;qs;lt;tk; cháng;pn;pn;pd;uh;po;pc;ta;pn; yì;aa;aa;aa;dd;mm;fi;g,gg;aa; xiē;ve;ve;ec;ru;ym;sm;hx;ve;	72
 略长几岁	lüè;tk;tk;tg;wo;wr;qs;lt;tk; zhǎng;pn;pn;pd;uh;po;pc;ta;pn; jǐ;pv;pv;py;ii;hn;oj;mt;pv; suì;ux;ex;ux;pf;ui;vl;mq;sx;	52
-见长	jiàn;ke;ke;ag,ek,ke;pk;bu;ej;mq;av; zhǎng;pn;pn;pd;uh;po;pc;ta;pn;	794
-见长	jiàn;ke;ke;ag,ek,ke;pk;bu;ej;mq;av; cháng;pn;pn;pd;uh;po;pc;ta;pn;	320
-所长	suǒ;hj;pj;hj,jh;up;hl;mt;rn;pj; cháng;pn;pn;pd;uh;po;pc;ta;pn;	669
-所长	suǒ;hj;pj;hj,jh;up;hl;mt;rn;pj; zhǎng;pn;pn;pd;uh;po;pc;ta;pn;	258
+见长	jiàn;ke;ke;ag,ek,ke;pk;bu;ej;mq;av; zhǎng;pn;pn;pd;uh;po;pc;ta;pn;	7238
+见长	jiàn;ke;ke;ag,ek,ke;pk;bu;ej;mq;av; cháng;pn;pn;pd;uh;po;pc;ta;pn;	2213
+所长	suǒ;hj;pj;hj,jh;up;hl;mt;rn;pj; cháng;pn;pn;pd;uh;po;pc;ta;pn;	6690
+所长	suǒ;hj;pj;hj,jh;up;hl;mt;rn;pj; zhǎng;pn;pn;pd;uh;po;pc;ta;pn;	27041
 便宜	biàn;rg;rg;rg;xy;ok;jb;wg;rg; yí;bq;bq;bq;iu;jm;wf;pe;gq;	255
 便宜	pián;rg;rg;rg;xy;ok;jb;wg;rg; yi;bq;bq;bq;iu;jm;wf;pe;gq;	3240
 便不便宜	biàn;rg;rg;rg;xy;ok;jb;wg;rg; bú;ab;ad;ad,ax;dh;mf;cb;i,gi;ad; biàn;rg;rg;rg;xy;ok;jb;wg;rg; yí;bq;bq;bq;iu;jm;wf;pe;gq;	1034
@@ -44,10 +52,10 @@ sort: by_weight
 年长	nián;pf;pl;ra,pa;es;oq;ev;rh;pa; zhǎng;pn;pn;pd;uh;po;pc;ta;pn;	3306
 十四	shí;al;al;aa;ss;jj;ns;fg;aa; sì;ke;ke;aa,ke;nk;wc;ys;lh;we;	1
 四十	sì;ke;ke;aa,ke;nk;wc;ys;lh;we; shí;al;al;aa;ss;jj;ns;fg;aa;	1
-五行	wǔ;aw;aa;aa;gg;mm;wu;gg;aa; xíng;rd;ii;xd,xi;hs;hn;px;tf;rd;	4388
+五行	wǔ;aw;aa;aa;gg;mm;wu;gg;aa; háng;rd;ii;xd,xi;hs;hn;px;tf;rd;	4388
 五行	wǔ;aw;aa;aa;gg;mm;wu;gg;aa; xíng;rd;ii;xd,xi;hs;hn;px;tf;rd;	6494
-一行	yī;aa;aa;aa;dd;mm;fi;g,gg;aa; xíng;rd;ii;xd,xi;hs;hn;px;tf;rd;	7197
-一行	yī;aa;aa;aa;dd;mm;fi;g,gg;aa; xíng;rd;ii;xd,xi;hs;hn;px;tf;rd;	3524
+一行	yì;aa;aa;aa;dd;mm;fi;g,gg;aa; háng;rd;ii;xd,xi;hs;hn;px;tf;rd;	7197
+一行	yì;aa;aa;aa;dd;mm;fi;g,gg;aa; xíng;rd;ii;xd,xi;hs;hn;px;tf;rd;	3524
 重天	zhòng;ql;pa;pa,ql;sg;hg;ld;tg;pa; tiān;ad;ad;ad;ue;mk;fm;gd;ad;	2694
 往外传	wǎng;rv;iv;xv;ha,hg;hg;wn;ty;rv; wài;xb;xb;xb;fh;ny;ly;qh;xb; zhuàn;rv;rv;rv;xh;oi;ji;wf;rv;	90
 捉兔	zhuō;fz;fr;fz;jg;qo;up;rk;fr; tù;dd;dd;dd;gh;ni;wt;qk;ed;	1
